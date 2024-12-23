@@ -67,7 +67,10 @@ Status: **Closed**
 
 
 # III. For Others (S2 and above):
-This is the third pipeline for joining amFOSS. Interested students will have to complete all designated tasks, after which they will be assigned a project to work on. Evaluation will be conducted based on the completion of these tasks and the project, followed by an interview.
+This is the third pipeline for joining amFOSS. Interested students will have to complete all designated tasks. Evaluation will be conducted based on the completion of these tasks, followed by an interview.
 
-Status: **Closed**
+Fill out the following form to register:
+https://docs.google.com/forms/d/e/1FAIpQLSfyUtETWM3FnW1uJOB0ENlpdTZS6OxXbKS9g4rA8E6eh5YYdQ/viewform?usp=sharing
+
+Status: **Open**
 
